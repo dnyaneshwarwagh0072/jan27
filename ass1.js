@@ -12,3 +12,4 @@ for (i = 0; i < sizof; i++) {
     }
 }
 alert("The maximum number is " + maxnum);
+console.log(max);
